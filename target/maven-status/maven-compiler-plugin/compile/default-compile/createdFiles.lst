@@ -1,0 +1,5 @@
+com\micro\MicroCreditos\MicroCreditosApplication.class
+com\micro\MicroCreditos\repository\MicroRepository.class
+com\micro\MicroCreditos\controller\MicroController.class
+com\micro\MicroCreditos\repository\impl\MicroRepositoryImpl.class
+com\micro\MicroCreditos\service\MicroService.class
